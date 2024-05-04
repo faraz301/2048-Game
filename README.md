@@ -36,5 +36,5 @@ This project is licensed under the [MIT License](LICENSE).
 ## Acknowledgements
 
 - This project is based on the original 2048 game created by Gabriele Cirulli.
-- Special thanks to [OpenAI ChatGPT](https://openai.com/chatgpt) for assistance with project guidance and documentation.
+  
 
